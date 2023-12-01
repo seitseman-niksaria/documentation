@@ -121,13 +121,9 @@ Remember that it must begin with a dot and it goes into the root directory of th
 
 Here are a few views of the app in usage: the chatbot screen, asking the chatbot to provide information about a certain furniture model, and a screen for the model.
 
-<img width="225" alt="pieni1" src="https://github.com/seitseman-niksaria/documentation/assets/122804701/f3c1234b-9286-4576-a8ab-748f670730f3">![pieni2](https://github.com/seitseman-niksaria/documentation/assets/122804701/e2235933-0cb6-424a-adfd-7d3339d02e56)
-<img width="225" alt="pieni3" src="https://github.com/seitseman-niksaria/documentation/assets/122804701/a7e94604-5a01-4e42-9e23-5614f6e46687">
-
-
+<img width="225" alt="pieni1" src="https://github.com/seitseman-niksaria/documentation/assets/122804701/f3c1234b-9286-4576-a8ab-748f670730f3"><img width="225" alt="pieni2" src="https://github.com/seitseman-niksaria/documentation/assets/122804701/af847a6e-71b5-454b-a3a3-6622696a9017"><img width="225" alt="pieni3" src="https://github.com/seitseman-niksaria/documentation/assets/122804701/a7e94604-5a01-4e42-9e23-5614f6e46687">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- ROADMAP -->
