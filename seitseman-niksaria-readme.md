@@ -121,7 +121,8 @@ Remember that it must begin with a dot and it goes into the root directory of th
 
 Here are a few views of the app in usage: the chatbot screen, asking the chatbot to provide information about a certain furniture model, and a screen for the model.
 
-<img width="330" alt="Näyttökuva 2023-12-1 kello 17 50 30" src="https://github.com/seitseman-niksaria/documentation/assets/122804701/d19786c2-819c-475c-9dee-fed612f8806b">
+<img width="150" alt="pieni3" src="https://github.com/seitseman-niksaria/documentation/assets/122804701/d7100238-b8c2-47c4-b393-c96816933a3b">
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
