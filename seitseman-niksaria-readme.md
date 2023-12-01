@@ -54,9 +54,9 @@
 
 Kalusteassari / Furniture Assistant was created during Haaga-Helia's Software Project 2 -course (10 ECTS) in fall 2023. It is a team project of seven students.
 
-This project was commissioned by Nikari Oy and Woodnotes Oy. The purpose of the project was to create a mobile app where the user could utilize the camera of their own device to get upkeep instructions of the furniture pictured. The app is supposed to offer a quick and easy way to find information about the furniture and give instructions on upkeep and cleaning. The main function of the app is to make it easier for the furniture owners to keep their furniture long-lasting and beautiful.
+This project was commissioned by Nikari Oy and Woodnotes Oy. The purpose of the project was to create a mobile app where the user could utilize the camera of their device to get upkeep instructions for the furniture pictured. The app is supposed to offer a quick and easy way to find information about the furniture and give instructions on upkeep and cleaning. The main function of the app is to make it easier for furniture owners to keep their furniture long-lasting and beautiful.
 
-On this page you will find information and instructions on the created mobile app.
+On this page, you will find information and instructions on the created mobile app.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -76,13 +76,13 @@ The app operates on both Android and iOS devices.
 
 ### Prerequisites
 
-For the user to get the best experience, they should give permission to the app to use their device's camera.
+For the user to get the best experience, they should permit the app to use their device's camera.
 
 ### Installation
 
-For now the game is published only in Expo Go -application, and cannot be found in Google Play Store or App Store.
+For now, the game is published only in Expo Go -application, and cannot be found in Google Play Store or App Store.
 
-Install Expo Go on your mobile device: <a href="https://expo.dev/"></a> or simply searching for 'Expo Go' in Play Store/App Store.
+Install Expo Go on your mobile device: <a href="https://expo.dev/"></a> or simply search for 'Expo Go' in Play Store/App Store.
 
 ### ⚡️ Quickstart
 
@@ -92,18 +92,18 @@ To get started, follow these steps:
    ```
    git clone https://github.com/seitseman-niksaria/niksari-frontend.git
    ```
-2. Get in to the project:
+2. Get into the project:
    ```
    cd niksari-frontend
    ```
-3. Install all the dependecies:
+3. Install all the dependencies:
    ```
    npm install
    ```
    
 :exclamation: Keep in mind!
-For development server .env file is needed. You can download it from Teams files. Don't share it or push it to the GitHub repository!!!
-Remember that it must begin with a dot and it goes in to the root directory of the project.
+For the development server .env file is needed. You can download it from Teams files. Don't share it or push it to the GitHub repository!!!
+Remember that it must begin with a dot and it goes into the root directory of the project.
 
  
 4. Start the expo app:
@@ -119,7 +119,12 @@ Remember that it must begin with a dot and it goes in to the root directory of t
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Here is a few views of the app in usage: the chatbot screen, asking the chatbot to provide information about a certain furniture model, and a screen for the model.
+Here are a few views of the app in usage: the chatbot screen, asking the chatbot to provide information about a certain furniture model, and a screen for the model.
+
+<img width="330" alt="Näyttökuva 2023-12-1 kello 17 50 03" src="https://github.com/seitseman-niksaria/documentation/assets/122804701/0461eee1-91a3-4fde-bd02-959477e89a0f"><img width="330" alt="Näyttökuva 2023-12-1 kello 17 50 23" src="https://github.com/seitseman-niksaria/documentation/assets/122804701/1f3a5d4a-3bd6-48ec-be47-8f96b26f284d"><img width="330" alt="Näyttökuva 2023-12-1 kello 17 50 30" src="https://github.com/seitseman-niksaria/documentation/assets/122804701/4d36f76e-1e4e-45e5-a3e0-436c382e995a">
+
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -128,17 +133,17 @@ Here is a few views of the app in usage: the chatbot screen, asking the chatbot 
 <!-- ROADMAP -->
 ## Roadmap
 
-Our creation process was divided into 4 sprints (starting with sprint 0) that were all three weeks long. We started with brainstorming about the assignment, writing user stories and creating other related charts.
+Our creation process was divided into 4 sprints (starting with sprint 0) that were all three weeks long. We started with brainstorming about the assignment, writing user stories, and creating other related charts.
 
-Next we created the bases for the app's backend and frontend. We started developing the chatbot and a functioning camera.
+Next, we created the bases for the app's backend and frontend. We started developing the chatbot and a functioning camera.
 
-In the next sprint we focused on how the chatbot functioned, and created a small artifical intelligence using Teachable Machine so we could test and simulate the image recognizing function.
+In the next sprint, we focused on how the chatbot functioned and created a small artificial intelligence using Teachable Machine so we could test and simulate the image-recognizing function.
 
-Next we created a proper database using PostgreSQL. We also focused on the camera application sending the picture to the recognition model and return information of the furniture. On the code side we cleaned the code for both chatbot and frontend, and made the app conversate with the database.
+Next, we created a proper database using PostgreSQL. We also focused on the camera application sending the picture to the recognition model and return information of the furniture. On the code side, we cleaned the code for both chatbot and frontend, and made the app conversate with the database.
 
-In the last sprint we mostly focused on finishing touches, mostly on the UI/UX -side.
+In the last sprint, we mostly focused on finishing touches, mostly on the UI/UX side.
 
-Currently we are not planning on publishing our app. 
+Currently, we are not planning on publishing our app. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
